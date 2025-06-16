@@ -56,7 +56,7 @@
 </head>
 <body>
   <header>
-    <h1>Forschungs</h1>
+    <h1>Förschungs</h1>
     <p>Notas, problemas, artículos y asesorías por Magdiel Rivera</p>
   </header>
 
