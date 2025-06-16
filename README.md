@@ -104,8 +104,7 @@
     <section id="contact">
       <h2>Asesorías</h2>
       <p>Ofrezco asesorías personalizadas en física y matemáticas, tanto para estudiantes mexicanos como extranjeros. Clases en español o inglés.</p>
-      <p>Para contactarme, puedes escribirme a: <strong>magdielrivera@gmail.com</strong></p>
-      <p>O bien enviarme mensaje por Discord: <strong>@MagdielRivera</strong></p>
+      <p>Para contactarme, puedes escribirme a: <strong>j.rivera.research@gmail.com</strong></p>
     </section>
   </div>
 
