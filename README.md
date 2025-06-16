@@ -109,7 +109,7 @@
   </div>
 
   <footer>
-    <p>© 2025 Magdiel Rivera | Forschungs</p>
+    <p>© 2025 Magdiel Rivera | Förschungs</p>
   </footer>
 </body>
 </html>
