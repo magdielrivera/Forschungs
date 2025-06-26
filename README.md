@@ -57,23 +57,24 @@
 <body>
   <header>
     <h1>Förschungs</h1>
-    <p>Notas, problemas, artículos y asesorías por Magdiel Rivera</p>
+    <p>Lecture notes, problems, artícles, tutoring & courses by Magdiel Rivera</p>
   </header>
 
   <nav>
-    <a href="#about">Sobre mí</a>
-    <a href="#lectures">Notas de Clase</a>
-    <a href="#articles">Artículos</a>
-    <a href="#problems">Problemas Resueltos</a>
-    <a href="#contact">Asesorías</a>
+    <a href="#about">About me</a>
+    <a href="#lectures">Lecture notes</a>
+    <a href="#articles">Artícles</a>
+    <a href="#problems">Solved problems</a>
+    <a href="#contact">Tutorings</a>
+    <a href="#contact">Courses</a>
   </nav>
 
   <div class="container">
     <section id="about">
       <h2>Sobre mí</h2>
       <p>Soy estudiante de Física con interés en física teórica y matemática. Actualmente escribo artículos independientes, doy asesorías en física y matemáticas, y estoy construyendo este blog como parte de mi portafolio académico para estudios futuros en el extranjero, incluyendo ETH Zürich.</p>
-    </section>
-
+    </section>section>
+  <div class="container">
     <section id="lectures">
       <h2>Notas de Clase</h2>
       <p>Aquí iré subiendo mis notas personales de temas clave: mecánica clásica, álgebra lineal, análisis matemático, relatividad, etc.</p>
@@ -82,7 +83,6 @@
         <li><strong>Álgebra Lineal:</strong> <a href="#">Espacios vectoriales y transformaciones lineales</a></li>
       </ul>
     </section>
-
     <section id="articles">
       <h2>Artículos</h2>
       <p>Proyectos de investigación independiente en física teórica:</p>
@@ -90,8 +90,7 @@
         <li><a href="#">Artículo 1: Introducción a la geometría simpléctica</a></li>
         <li><a href="#">Artículo 2: Notas sobre operadores no autoadjuntos</a></li>
       </ul>
-    </section>
-
+    </section>  <div class="container">
     <section id="problems">
       <h2>Problemas Resueltos</h2>
       <p>Selección de ejercicios interesantes que he resuelto y explicado paso a paso.</p>
@@ -100,7 +99,6 @@
         <li><a href="#">Derivada del determinante de una matriz</a></li>
       </ul>
     </section>
-
     <section id="contact">
       <h2>Asesorías</h2>
       <p>Ofrezco asesorías personalizadas en física y matemáticas, tanto para estudiantes mexicanos como extranjeros. Clases en español o inglés.</p>
